@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Activity 2-Angie Wheeler.app/Contents/MacOS/Activity 2-Angie Wheeler">
+      <BCSymbolMapName>Activity 2-Angie Wheeler.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Activity 2-Angie Wheeler.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Activity 2-Angie Wheeler.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

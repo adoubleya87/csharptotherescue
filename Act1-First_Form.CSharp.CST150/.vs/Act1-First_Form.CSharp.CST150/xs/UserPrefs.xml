@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E612FB41-7F14-4CF9-8E42-E25790CA2F0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Act1-First_Form.CSharp.CST150/ViewController.designer.cs">
+    <Files>
+      <File FileName="Act1-First_Form.CSharp.CST150/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Act1-First_Form.CSharp.CST150/ViewController.designer.cs" Line="22" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Act1-First_Form.CSharp.CST150" expanded="True">
+            <Node name="Act1-First_Form.CSharp.CST150" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Act1-First_Form.CSharp.CST150" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Act1-First__Form.CSharp.CST150 PreferredExecutionTarget="MyMacID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

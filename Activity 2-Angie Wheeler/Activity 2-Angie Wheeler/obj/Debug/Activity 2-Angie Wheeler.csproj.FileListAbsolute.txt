@@ -1,0 +1,16 @@
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/bin/Debug/Activity 2-Angie Wheeler.exe
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/bin/Debug/Activity 2-Angie Wheeler.pdb
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/actool/_PartialAppManifest.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/_ProcessedContentPath.items
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/Activity 2-Angie Wheeler.csproj.AssemblyReference.cache
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/Activity 2-Angie Wheeler.csproj.CoreCompileInputs.cache
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/Activity 2-Angie Wheeler.exe
+/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/Activity 2-Angie Wheeler.pdb

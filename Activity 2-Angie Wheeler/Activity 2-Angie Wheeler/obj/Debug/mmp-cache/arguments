@@ -1,0 +1,24 @@
+# Version: 9.3.0. (xcode14.3: 97731c92c)
+/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.6/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.6/bin/../lib/mmp/mmp.exe \
+	--debug \
+	'/target-framework:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	--http-message-handler=HttpClientHandler \
+	'\"--cache=/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/mmp-cache\"' \
+	'\"--root-assembly=/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/bin/Debug/Activity 2-Angie Wheeler.exe\"' \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=13.3 \
+	-q \
+	-q \
+	-q \
+	-q \
+	'\"/output:/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/bin/Debug/\"' \
+	'\"/name:Activity 2-Angie Wheeler\"' \
+	/abi:x86_64 \
+	/nolink \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	'@/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Activity 2-Angie Wheeler/Activity 2-Angie Wheeler/obj/Debug/response-file.rsp' \

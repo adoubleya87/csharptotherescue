@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B5F7E455-51EC-49B6-A318-97654C3BE867}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity 2-Angie Wheeler/Act 2">
+    <Files>
+      <File FileName="Activity 2-Angie Wheeler/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Activity 2-Angie Wheeler/ViewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Activity 2-Angie Wheeler" expanded="True">
+            <Node name="Activity 2-Angie Wheeler" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Activity 2-Angie Wheeler" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Activity_2202-Angie_220Wheeler PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

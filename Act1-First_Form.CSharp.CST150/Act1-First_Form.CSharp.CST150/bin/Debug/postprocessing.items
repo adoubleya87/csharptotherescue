@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Act1-First_Form.CSharp.CST150.app/Contents/MacOS/Act1-First_Form.CSharp.CST150">
+      <BCSymbolMapName>Act1-First_Form.CSharp.CST150.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Act1-First_Form.CSharp.CST150.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Act1-First_Form.CSharp.CST150/Act1-First_Form.CSharp.CST150/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Act1-First_Form.CSharp.CST150.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/angiewheeler/Desktop/ChattieDodders2023-CST150/Act1-First_Form.CSharp.CST150/Act1-First_Form.CSharp.CST150</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
